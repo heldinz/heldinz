@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! I'm Alice Rose 👋</h1>
 <p>
-  I’m a software engineer with almost two decades of professional experience building products for the web and an emphasis on accessibility, performance, and security.
+  I’m a software engineer with almost two decades of experience and an emphasis on accessibility, performance, and security.
 </p>
 
 On the side, right now I’m:
